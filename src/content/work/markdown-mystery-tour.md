@@ -1,35 +1,24 @@
 ---
-title: Markdown Mystery Tour
-publishDate: 2020-03-02 00:00:00
-img: /assets/stock-1.jpg
-img_alt: Iridescent ripples of a bright blue and pink liquid
+title: Charles Cantin photographe
+publishDate: 2023-03-02 00:00:00
+img: /assets/charles_cantin.png
+img_alt: Capture d'écran du site web de Charles Cantin
 description: |
-  We designed a whodunnit-style game to introduce Markdown formatting. Suspense — suspicion — syntax!
+  Portfolio du photographe Charles Cantin
 tags:
   - Design
   - Dev
-  - User Testing
+  - User Experience
 ---
 
-## Level-two heading
+## Next.js
 
-> Tell me and I forget. Teach me and I remember. Involve me and I learn.
+> Apprendre et évoluer ! 
 
-Lorem ipsum dolor sit amet, <a href="https://astro.build/">Astro</a> makes people happy. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Proin nibh nisl condimentum id venenatis a condimentum vitae. Dapibus ultrices in iaculis nunc. Arcu odio ut sem nulla pharetra diam sit amet. Diam quis enim lobortis scelerisque fermentum dui faucibus in ornare.
+J'ai utilisé Next.js pour mettre en place le portfolio de Charles Cantin, un photographe passionné. Next.js offre une plateforme de développement web robuste et flexible, idéale pour créer des sites web réactifs et hautement performants. En choisissant Next.js, j'ai pu tirer parti de ses fonctionnalités avancées telles que le rendu côté serveur, la génération de pages statiques et la prise en charge native du SSR (rendu côté serveur). Cela a permis de garantir une expérience utilisateur fluide et rapide, essentielle pour mettre en valeur le travail de Charles Cantin. De plus, la structure modulaire de Next.js a facilité l'organisation et la gestion du contenu visuel, mettant en valeur les photographies de manière esthétique et intuitive. Avec Next.js, j'ai pu créer un portfolio en ligne attrayant et fonctionnel, reflétant parfaitement le talent et la créativité de Charles Cantin en tant que photographe.
 
-Arcu dui vivamus arcu felis bibendum ut tristique et egestas. Eget gravida cum sociis natoque penatibus. Cras fermentum odio eu feugiat pretium nibh. Proin nibh nisl condimentum id venenatis. Porta nibh venenatis cras sed felis eget velit. Id diam vel quam elementum pulvinar etiam non.
+### Figma
 
-### Level-three heading
+Pour le maquettage du projet avec Figma, j'ai opté pour cette plateforme de conception collaborative en raison de sa facilité d'utilisation et de sa polyvalence. Figma offre des outils puissants pour créer des maquettes interactives et des prototypes de manière efficace. En travaillant avec Charles Cantin, le photographe, nous avons pu utiliser Figma pour traduire ses idées créatives en un design visuellement captivant. Grâce aux fonctionnalités de collaboration en temps réel de Figma, nous avons pu itérer rapidement sur les maquettes, intégrer les commentaires de Charles et affiner les détails pour obtenir un résultat final qui correspondait parfaitement à sa vision artistique. La flexibilité de Figma nous a également permis d'adapter facilement le design aux différentes tailles d'écran, assurant ainsi une expérience utilisateur optimale sur tous les appareils. En fin de compte, l'utilisation de Figma a été essentielle pour créer un design de portfolio qui met en valeur le travail de Charles Cantin de manière élégante et professionnelle.
 
-Ultrices tincidunt arcu non sodales neque sodales ut. Sed enim ut sem viverra aliquet eget sit amet. Lacus luctus accumsan tortor posuere ac ut consequat semper viverra. Viverra accumsan in nisl nisi scelerisque eu ultrices. In massa tempor nec feugiat nisl pretium fusce.
 
-### Level-three heading
-
-Sed pulvinar porttitor mi in ultricies. Etiam non dolor gravida eros pulvinar pellentesque et dictum ex. Proin eu ornare ligula, sed condimentum dui. Vivamus tincidunt tellus mi, sed semper ipsum pharetra a. Suspendisse sollicitudin at sapien nec volutpat. Etiam justo urna, laoreet ac lacus sed, ultricies facilisis dolor. Integer posuere, metus vel viverra gravida, risus elit ornare magna, id feugiat erat risus ullamcorper libero. Proin vitae diam auctor, laoreet lorem vitae, varius tellus.
-
-Aenean pretium purus augue, ut bibendum erat convallis quis. Cras condimentum quis velit ac mollis. Suspendisse non purus fringilla, venenatis nisl porta, finibus odio. Curabitur aliquet metus faucibus libero interdum euismod. Morbi sed magna nisl. Morbi odio nibh, facilisis vel sapien eu, tempus tincidunt erat. Nullam erat velit, sagittis at purus quis, tristique scelerisque tortor. Pellentesque lacinia tortor id est aliquam viverra. Vestibulum et diam ac ipsum mollis fringilla.
-
-#### Level-four heading
-
-- We noted this
-- And also this other point
