@@ -5,10 +5,7 @@ import ContactCTA from "../components/ContactCTA.astro";
 import Hero from "../components/Hero.astro";
 ---
 
-<BaseLayout
-	title="About | Jeanine White"
-	description="About Jeanine White Lorem Ipsum"
->
+<BaseLayout title="About" description="Portfolio de Sébastien">
 	<div class="stack gap-20">
 		<main class="wrapper about">
 			<Hero
@@ -19,13 +16,13 @@ import Hero from "../components/Hero.astro";
 			<section>
 				<h2 class="section-title">Background</h2>
 				<div class="content">
-					<p>
+					<p class="paragraph">
 						Depuis toujours, ma passion pour tous les aspects du
 						monde informatique a été une constante dans ma vie.
 						Cette fascination pour la technologie a guidé mes choix
 						et mes aspirations.
 					</p>
-					<p>
+					<p class="paragraph">
 						Après avoir pris la décision courageuse de me
 						reconvertir professionnellement, j'ai entrepris un
 						parcours d'apprentissage enrichissant avec l'école
@@ -33,13 +30,10 @@ import Hero from "../components/Hero.astro";
 						obtenir un diplôme qui m'a ouvert de nouvelles portes
 						dans le domaine de l'informatique.
 					</p>
-					<p>
+					<p class="paragraph">
 						Aujourd'hui, fort de cette formation et de ma passion
 						indéfectible, je suis impatient de relever de nouveaux
 						défis et de continuer à élargir mes connaissances.
-						Chaque opportunité représente pour moi une occasion
-						d'apprendre, de grandir et de contribuer au monde de la
-						technologie avec créativité et détermination.
 					</p>
 				</div>
 			</section>
@@ -48,10 +42,12 @@ import Hero from "../components/Hero.astro";
 				<h2 class="section-title">Skills</h2>
 				<div class="content">
 					<p>PHP 8</p>
+					<p>Git</p>
 					<p>Symfony 6+</p>
 					<p>Twig</p>
 					<p>API REST</p>
-					<p>Methode Agile</p>
+					<p>Docker</p>
+					<p>Agile / SCRUM</p>
 				</div>
 			</section>
 		</main>
@@ -88,6 +84,10 @@ import Hero from "../components/Hero.astro";
 
 	.content {
 		grid-column: 2 / 4;
+	}
+
+	.paragraph {
+		text-align: justify;
 	}
 
 	.content :global(a) {

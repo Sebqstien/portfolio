@@ -46,9 +46,9 @@ const projects = (await getCollection("work"))
 
 				<img
 					alt="Portrait de Sébastien verslype en noir et blanc"
-					width="480"
-					height="800"
-					src="/assets/portrait.jpg"
+					width="300"
+					height="450"
+					src="/assets/portrait.png"
 				/>
 			</header>
 
@@ -102,11 +102,10 @@ const projects = (await getCollection("work"))
 	}
 
 	.hero img {
-		aspect-ratio: 5 / 4;
+		aspect-ratio: 4 / 5;
 		object-fit: cover;
 		object-position: top;
-		border-radius: 50rem;
-		box-shadow: var(--shadow-md);
+		border-radius: 4.5rem;
 	}
 
 	@media (min-width: 50em) {
