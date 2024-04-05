@@ -1,18 +1,22 @@
 ---
-title: Dice game
+title: BK FOOD
 publishDate: 2023-01-01 00:00:00
-img: /assets/dice_game.png
-img_alt: Capture d'écran du jeu de dé 
+img: /assets/BKFOOD.png
+img_alt: Capture d'écran du site vitrine de BK FOOD
 description: |
-  Jeu de dés en Javascript Vanilla
+  Site vitrine pour le restaurant BK FOOD
 tags:
   - Dev
-  - Javascript
-  - Fun
+  - Visibilité
+  - Site vitrine
 ---
 
-## Symfony
+## HTML / CSS / JS
 
-> Interactivité et jouabilité 
+> Visibilité et Marketing 
 
-J'ai récemment développé un jeu de dés en utilisant JavaScript ES6. Ce jeu propose une expérience divertissante et interactive où les joueurs peuvent lancer des dés virtuels et essayer d'obtenir le meilleur score possible. Le jeu offre une interface utilisateur conviviale et réactive, permettant aux joueurs de lancer les dés en un clic et de visualiser instantanément leurs résultats. En développant ce jeu de dés avec JavaScript ES6, j'ai pu explorer les fonctionnalités modernes du langage et créer une expérience ludique et engageante pour les joueurs.
+J'ai eu le plaisir de collaborer avec BK Food, un restaurant de street food passionné par l'art culinaire urbain, pour créer un site vitrine à la hauteur de son identité et de son ambiance vibrante. En tant que développeur web freelance spécialisé dans la conception de sites web sur mesure, j'ai travaillé en étroite collaboration avec l'équipe de BK Food pour comprendre leur vision et leurs objectifs.
+
+Grâce à une approche centrée sur l'utilisateur, j'ai conçu un site web qui capture l'essence même de l'expérience BK Food : audacieuse, dynamique et délicieusement authentique. En utilisant des éléments visuels accrocheurs, une mise en page moderne et une navigation intuitive, j'ai créé une plateforme en ligne qui invite les visiteurs à plonger dans l'univers coloré de BK Food dès la première interaction.
+
+En mettant l'accent sur la performance et l'accessibilité, j'ai veillé à ce que le site web de BK Food soit parfaitement optimisé pour les moteurs de recherche (SEO) et compatible avec tous les appareils, garantissant ainsi une visibilité maximale et une expérience utilisateur optimale, que ce soit sur ordinateur, tablette ou smartphone.
